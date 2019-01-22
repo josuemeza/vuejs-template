@@ -1,0 +1,10 @@
+version: '3'
+services:
+  cli:
+    build: .
+    command: vue ui
+    volumes:
+      - ./app:/app
+    ports:
+      - 8000:8000
+      - 8080-8180:8080-8180

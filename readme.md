@@ -60,4 +60,4 @@ Josue Meza Peña, contacto@josuemeza.com
 
 ## License
 
-**Rails API template with docker-compose** is available under the MIT license. See the [LICENSE](LICENSE) file for more info.
+**VueJS app with docker-compose** is available under the MIT license. See the [LICENSE](LICENSE) file for more info.

@@ -1,5 +1,5 @@
 FROM node:slim
-MAINTAINER YOUR-NAME
+MAINTAINER Josue Meza
 RUN mkdir /app
 WORKDIR /app
 COPY ./app /app
